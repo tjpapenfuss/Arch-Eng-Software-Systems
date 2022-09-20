@@ -1,0 +1,21 @@
+collegeID,name,students,city,region,country
+1,MIT,11,Cambridge,MA,USA
+2,Brown,9,Providence,RI,USA
+3,Dartmouth,6,Hanover,NH,USA
+4,Stanford,17,Stanford,CA,USA
+5,Yale,12,New Haven,CT,USA
+6,Columbia,31,New York,NY,USA
+7,Harvard,23,Cambridge,MA,USA
+8,Princeton,9,Princeton,NJ,USA
+9,Johns Hopkins,24,Baltimore,MD,USA
+10,Northwestern,21,Evanston,IL,USA
+11,Duke,15,Durham,NC,USA
+12,Cornell,22,Ithaca,NY,USA
+13,Notre Dame,9,Notre Dame,IN,USA
+14,UCLA,32,Los Angeles,CA,USA
+15,Berkeley,42,Berkeley,CA,USA
+16,Georgetown,5,Washington,DC,USA
+17,Michigan,45,Ann Arbor,MI,USA
+18,USC,44,Los Angeles,CA,USA
+19,Tufts,11,Medford,MA,USA
+20,NYU,51,New York,NY,USA

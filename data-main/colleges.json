@@ -1,0 +1,162 @@
+[
+    {
+        "city": "Cambridge",
+        "collegeID": 1,
+        "country": "USA",
+        "name": "MIT",
+        "region": "MA",
+        "students": 11
+    },
+    {
+        "city": "Providence",
+        "collegeID": 2,
+        "country": "USA",
+        "name": "Brown",
+        "region": "RI",
+        "students": 9
+    },
+    {
+        "city": "Hanover",
+        "collegeID": 3,
+        "country": "USA",
+        "name": "Dartmouth",
+        "region": "NH",
+        "students": 6
+    },
+    {
+        "city": "Stanford",
+        "collegeID": 4,
+        "country": "USA",
+        "name": "Stanford",
+        "region": "CA",
+        "students": 17
+    },
+    {
+        "city": "New Haven",
+        "collegeID": 5,
+        "country": "USA",
+        "name": "Yale",
+        "region": "CT",
+        "students": 12
+    },
+    {
+        "city": "New York",
+        "collegeID": 6,
+        "country": "USA",
+        "name": "Columbia",
+        "region": "NY",
+        "students": 31
+    },
+    {
+        "city": "Cambridge",
+        "collegeID": 7,
+        "country": "USA",
+        "name": "Harvard",
+        "region": "MA",
+        "students": 23
+    },
+    {
+        "city": "Princeton",
+        "collegeID": 8,
+        "country": "USA",
+        "name": "Princeton",
+        "region": "NJ",
+        "students": 9
+    },
+    {
+        "city": "Baltimore",
+        "collegeID": 9,
+        "country": "USA",
+        "name": "Johns Hopkins",
+        "region": "MD",
+        "students": 24
+    },
+    {
+        "city": "Evanston",
+        "collegeID": 10,
+        "country": "USA",
+        "name": "Northwestern",
+        "region": "IL",
+        "students": 21
+    },
+    {
+        "city": "Durham",
+        "collegeID": 11,
+        "country": "USA",
+        "name": "Duke",
+        "region": "NC",
+        "students": 15
+    },
+    {
+        "city": "Ithaca",
+        "collegeID": 12,
+        "country": "USA",
+        "name": "Cornell",
+        "region": "NY",
+        "students": 22
+    },
+    {
+        "city": "Notre Dame",
+        "collegeID": 13,
+        "country": "USA",
+        "name": "Notre Dame",
+        "region": "IN",
+        "students": 9
+    },
+    {
+        "city": "Los Angeles",
+        "collegeID": 14,
+        "country": "USA",
+        "name": "UCLA",
+        "region": "CA",
+        "students": 32
+    },
+    {
+        "city": "Berkeley",
+        "collegeID": 15,
+        "country": "USA",
+        "name": "Berkeley",
+        "region": "CA",
+        "students": 42
+    },
+    {
+        "city": "Washington",
+        "collegeID": 16,
+        "country": "USA",
+        "name": "Georgetown",
+        "region": "DC",
+        "students": 5
+    },
+    {
+        "city": "Ann Arbor",
+        "collegeID": 17,
+        "country": "USA",
+        "name": "Michigan",
+        "region": "MI",
+        "students": 45
+    },
+    {
+        "city": "Los Angeles",
+        "collegeID": 18,
+        "country": "USA",
+        "name": "USC",
+        "region": "CA",
+        "students": 44
+    },
+    {
+        "city": "Medford",
+        "collegeID": 19,
+        "country": "USA",
+        "name": "Tufts",
+        "region": "MA",
+        "students": 11
+    },
+    {
+        "city": "New York",
+        "collegeID": 20,
+        "country": "USA",
+        "name": "NYU",
+        "region": "NY",
+        "students": 51
+    }
+]
