@@ -1,0 +1,52 @@
+/* Entities and relationships 
+
+Entities:
+authors
+books
+genres
+editors
+customers
+orders
+publishers
+bookAuthor
+bookGenre
+bookOrder
+customerOrders
+bookEditor
+
+
+Properties:
+authorId, firstName, lastName, phoneNo
+isbn, title, pageCount
+publishedDate, publisherId
+genreId, genre
+customerId, firstName, lastName, phone
+orderNo, dateOfOrder, itemsPurchased
+editorId, address
+
+
+***Note there are multiple properties firstName, lastName, phoneNo, etc.
+
+*/
+// ----------- Uniquie identifiers ----------
+/*
+Unique identifiers:
+publisherId, authorId, isbn, genreId, orderNo, editorId
+*/
+
+// ----------- Table relationships ----------
+/*
+Table relationships
+authors, bookAuthor 1:N
+books, bookAuthor 1:N
+books, publishers N:1
+books, bookGenre 1:N
+books, bookOrder 1:N
+books, bookEditor 1:N
+genres, bookGenre 1:N
+orders, bookOrder 1:N
+orders, customerOrders 1:N
+customers, customerOrders 1:N
+editors, bookEditor 1:N
+
+*/
