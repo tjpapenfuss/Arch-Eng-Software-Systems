@@ -20,8 +20,8 @@ authorId, firstName, lastName, phoneNo
 isbn, title, pageCount
 publishedDate, publisherId
 genreId, genre
-customerId, firstName, lastName, phone
-orderNo, dateOfOrder, itemsPurchased
+customerId, firstName, lastName, phoneNo
+orderNo, dateOfOrder, noItems
 editorId, address
 
 

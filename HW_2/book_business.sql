@@ -108,6 +108,7 @@ CREATE TABLE `bookEditor` (
 CREATE TABLE `bookAuthor` (
 	`ISBN`		    varchar(20) NOT NULL,
 	`authorId`	    int NOT NULL,
+    `royalties`	    float DEFAULT 0.15,
     FOREIGN KEY (ISBN) REFERENCES books(ISBN),
     FOREIGN KEY (authorId) REFERENCES authors(authorId)
 ) ENGINE=InnoDB DEFAULT CHARSET=UTF8MB4 COLLATE=utf8mb4_0900_ai_ci;
