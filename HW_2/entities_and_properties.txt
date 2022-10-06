@@ -22,7 +22,7 @@ publishedDate, publisherId
 genreId, genre
 customerId, firstName, lastName, phoneNo
 orderNo, dateOfOrder, noItems
-editorId, address
+editorId, name, address, phoneNo
 
 
 ***Note there are multiple properties firstName, lastName, phoneNo, etc.
